@@ -1,0 +1,4 @@
+Response Variable,Model,Alpha,Solver,RMSE,MAE,R2
+RBI_rate,Ridge Regression,6.0,lsqr,0.081,0.031,0.386
+HR_rate,Ridge Regression,1.0,sag,0.007,0.002,0.948
+BA,Ridge Regression,1.00E-09,sag,0.014,0.006,0.987
